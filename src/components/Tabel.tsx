@@ -1,3 +1,4 @@
+"use client";
 type TabelProps = {
   key: number;
   nome: string;

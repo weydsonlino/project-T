@@ -29,9 +29,9 @@ function PedidosPedentes() {
   }
 
   const pedidos: pedido[] = [
-    new pedido(0, "Atacadão", "Água 250ml", 10, "Rua 1", "01/01/2021"),
-    new pedido(1, "Casas Bahia", "Água 500ml", 20, "Rua 2", "02/01/2021"),
-    new pedido(2, "Pan", "Água 1L", 30, "Rua 3", "03/01/2021"),
+    new pedido(0, "Atacadão", "Água 250ml", 100, "Rua 1", "01/01/2021"),
+    new pedido(1, "Casas Bahia", "Água 500ml", 200, "Rua 2", "02/01/2021"),
+    new pedido(2, "Pan", "Água 1L", 300, "Rua 3", "03/01/2021"),
   ];
   const tableTittle = [
     [1, "Empresa"],
